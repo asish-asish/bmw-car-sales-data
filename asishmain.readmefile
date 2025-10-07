@@ -1,0 +1,52 @@
+# Power BI Dashboard – asishmain.pbix
+
+## 📊 Overview
+This Power BI project provides interactive data visualizations and insights to support data-driven decision-making.  
+The dashboard presents key metrics, KPIs, and trends through intuitive visual elements designed for business analysis.
+
+## 🎯 Objectives
+- Transform raw data into meaningful insights.  
+- Track performance indicators using interactive visuals.  
+- Enable stakeholders to explore data dynamically.  
+- Provide actionable intelligence for better strategic planning.
+
+## 🧩 File Information
+- **File Name:** `asishmain.pbix`  
+- **Tool Used:** Microsoft Power BI Desktop  
+- **File Type:** Power BI Report File (`.pbix`)  
+
+## 🗂️ Data Sources
+The report connects to various data sources such as:
+- Excel / CSV files  
+- SQL Server databases  
+- Online services (e.g., SharePoint, APIs)  
+*(You can customize this section with your actual data sources.)*
+
+## 📈 Key Features
+- Interactive dashboards with slicers and filters  
+- Custom DAX measures and calculated columns  
+- KPI cards for quick performance review  
+- Trend analysis and time intelligence visuals  
+- Responsive layout for better viewing experience  
+
+## 👥 Intended Audience
+- Business analysts  
+- Managers and decision-makers  
+- Data teams seeking real-time insights  
+
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.  
+2. Open it using **Power BI Desktop**.  
+3. Refresh data connections if needed.  
+4. Explore dashboards, filters, and visuals interactively.  
+
+## ⚙️ Requirements
+- **Power BI Desktop** (latest version recommended)  
+- Access to connected data sources (if applicable)  
+
+## 📜 License
+This project is released under the [MIT License](LICENSE).
+
+---
+
+> 💡 *Tip:* Update the sections with actual project details, screenshots, and data descriptions to make your GitHub page more engaging.
